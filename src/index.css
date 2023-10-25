@@ -1,13 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  /* Color Pallet */
+  --background-color: #0b0603;
+  --container-color: #0b0603da;
+  --heading-color: #ebeff0da;
+  --title-color: #ebeff0da;
+  --text-color: #ebeff0da;
+  --button-color: #24a0ed;
+  --border-color: #ccc;
+}
+
+/* Custom Font File (ttf/otf) */
+@font-face {
+  font-family: primary;
+  src: url(./font/Neue-Montreal/NeueMontreal-MediumItalic.otf);
+}
+
+@font-face {
+  font-family: primary-alt;
+  src: url(./font/Neue-Montreal/NeueMontreal-Regular.otf);
+}
+
+@font-face {
+  font-family: display-alt;
+  src: url(./font/tusker-grotesk-font/TuskerGrotesk-1800Super.ttf);
+}
+
+@font-face {
+  font-family: display;
+  src: url(./font/AKONY/AKONY.ttf);
+}
+
+@font-face {
+  font-family: Extra;
+  src: url(./font/Bright-Melody-Demo-Font/Bright-Melody-Display-Typeface.otf)
+}
+
+@font-face {
+  font-family: secondary;
+  src: url(./font/Redig/TTF/Redig-Regular.ttf)
+}
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  box-sizing: border-box;
+  font-family: primary , sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: var(--background-color);
+  color:  var(--text-color);
+  user-select: none;
+  overflow: hidden;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.scroll-container{
+  overflow: hidden;
 }
