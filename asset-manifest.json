@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hetpatel/static/css/main.c72d925f.css",
+    "main.js": "/hetpatel/static/js/main.cd34bf98.js",
+    "static/media/het.jpg": "/hetpatel/static/media/het.d074f92ff5aaa4da7a64.jpg",
+    "static/media/social.png": "/hetpatel/static/media/social.3ad08bfc33ae33240e8c.png",
+    "static/media/stockprice.png": "/hetpatel/static/media/stockprice.f838dd159b6a73a514bf.png",
+    "static/media/dashboard.png": "/hetpatel/static/media/dashboard.519f0bbe542b86979eea.png",
+    "static/media/quize.png": "/hetpatel/static/media/quize.a341953aca83e7974506.png",
+    "static/media/TuskerGrotesk-1800Super.ttf": "/hetpatel/static/media/TuskerGrotesk-1800Super.73f95715192ed4455246.ttf",
+    "static/media/Bright-Melody-Display-Typeface.otf": "/hetpatel/static/media/Bright-Melody-Display-Typeface.113a81c49da35e70de7a.otf",
+    "static/media/bloghome.png": "/hetpatel/static/media/bloghome.8e798dd1dc34cce8a3b4.png",
+    "static/media/AKONY.ttf": "/hetpatel/static/media/AKONY.e08ab06bc322f5000448.ttf",
+    "static/media/NeueMontreal-MediumItalic.otf": "/hetpatel/static/media/NeueMontreal-MediumItalic.262438e4ccb1e999a018.otf",
+    "static/media/NeueMontreal-Regular.otf": "/hetpatel/static/media/NeueMontreal-Regular.140bfb4a71fe08805d92.otf",
+    "static/media/Redig-Regular.ttf": "/hetpatel/static/media/Redig-Regular.e75181c3b34225bbca3e.ttf",
+    "index.html": "/hetpatel/index.html",
+    "main.c72d925f.css.map": "/hetpatel/static/css/main.c72d925f.css.map",
+    "main.cd34bf98.js.map": "/hetpatel/static/js/main.cd34bf98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c72d925f.css",
+    "static/js/main.cd34bf98.js"
+  ]
+}
